@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding_19:0"
+  metadata_path: "/Users/choihyun-young/jupyterWorkspace/tensorflow/cs20si/triple_embedding_21/tmp/vocab.txt"
+}

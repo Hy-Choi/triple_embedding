@@ -1,0 +1,12 @@
+ Department0.University2 University2 Department0.University1 University1
+ Department0.University3 University3 Department0.University1 University1
+ Department1.University0 University0 Department0.University1 University1
+ Department0.University1 University1 Department0.University2 University2
+ Department0.University3 University3 Department0.University2 University2
+ Department1.University0 University0 Department0.University2 University2
+ Department0.University1 University1 Department0.University3 University3
+ Department0.University2 University2 Department0.University3 University3
+ Department1.University0 University0 Department0.University3 University3
+ Department0.University1 University1 Department1.University0 University0
+ Department0.University2 University2 Department1.University0 University0
+ Department0.University3 University3 Department1.University0 University0
